@@ -18,3 +18,4 @@ pydub==0.25.1
 numpy==1.26.4
 scikit-learn==1.5.2
 pandas==2.2.3
+openai-whisper==20240930
